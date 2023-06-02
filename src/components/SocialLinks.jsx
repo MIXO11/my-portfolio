@@ -13,7 +13,7 @@ const SocialLinks = () => {
                     Linkedin <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://linkedin.com/in/jan-michael-cahimat-b45315202',
             style: 'rounded-tr-md'
         },
         {
